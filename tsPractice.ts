@@ -22,10 +22,10 @@
 
 // // unknown type vs any type practice 
 
-// let a: unknown = "hello";
+let a: unknown = "hello";
 
-// console.log(a.toUpperCase()); // HELLO
-// console.log(a.toFixed());     // Runtime error!
+console.log(a.toUpperCase()); // HELLO
+console.log(a.toFixed());     // Runtime error!
 
 // interface practice (define the shape of the object)
 
