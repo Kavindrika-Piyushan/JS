@@ -79,3 +79,4 @@ function changebtn2WithAddEventListener(){
 }
 change();
 
+// This is for checking git reset --soft HEAD~1
