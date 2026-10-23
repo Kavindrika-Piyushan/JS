@@ -80,3 +80,6 @@ function changebtn2WithAddEventListener(){
 change();
 
 // This is for checking git reset --soft HEAD~1
+
+
+// This to check ruleset in the github to prevent merge to main branch without PR and review
